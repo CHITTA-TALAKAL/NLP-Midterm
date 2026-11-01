@@ -1,0 +1,42 @@
+[Bigram] step     0  train 4.7282  val 4.7238
+[Bigram] step   250  train 2.7611  val 2.7703
+[Bigram] step   500  train 2.5193  val 2.5398
+[Bigram] step   750  train 2.4844  val 2.5059
+[Bigram] step  1000  train 2.4726  val 2.4943
+[Bigram] step  1250  train 2.4672  val 2.4898
+[Bigram] step  1500  train 2.4638  val 2.4892
+[Bigram] step  1750  train 2.4614  val 2.4865
+[Bigram] step  2000  train 2.4600  val 2.4850
+[Bigram] step  2250  train 2.4591  val 2.4835
+[Bigram] step  2500  train 2.4582  val 2.4827
+[Bigram] step  2750  train 2.4575  val 2.4832
+[Bigram] step  3000  train 2.4570  val 2.4810
+Closed-form count bigram, val loss: 2.4856  (trained bigram should be very close)
+
+[LSTM] step     0  train 4.1692  val 4.1690
+[LSTM] step   250  train 1.9033  val 1.9624
+[LSTM] step   500  train 1.6390  val 1.7670
+[LSTM] step   750  train 1.5276  val 1.6720
+[LSTM] step  1000  train 1.4573  val 1.6125
+[LSTM] step  1250  train 1.4137  val 1.5831
+[LSTM] step  1500  train 1.3769  val 1.5543
+[LSTM] step  1750  train 1.3471  val 1.5343
+[LSTM] step  2000  train 1.3239  val 1.5211
+[LSTM] step  2250  train 1.3036  val 1.5054
+[LSTM] step  2500  train 1.2870  val 1.5025
+[LSTM] step  2750  train 1.2710  val 1.4923
+[LSTM] step  3000  train 1.2567  val 1.4876
+
+[Transformer] step     0  train 4.3254  val 4.3184
+[Transformer] step   250  train 2.3436  val 2.3554
+[Transformer] step   500  train 2.0774  val 2.1236
+[Transformer] step   750  train 1.8690  val 1.9678
+[Transformer] step  1000  train 1.7453  val 1.8914
+[Transformer] step  1250  train 1.6571  val 1.8231
+[Transformer] step  1500  train 1.5960  val 1.7660
+[Transformer] step  1750  train 1.5529  val 1.7348
+[Transformer] step  2000  train 1.5196  val 1.7056
+[Transformer] step  2250  train 1.4945  val 1.6757
+[Transformer] step  2500  train 1.4745  val 1.6659
+[Transformer] step  2750  train 1.4545  val 1.6492
+[Transformer] step  3000  train 1.4401  val 1.6373
